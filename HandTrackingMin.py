@@ -1,3 +1,7 @@
+'''
+Made by - Saummya Salve aka Codaholic-cmd
+'''
+
 import cv2
 import mediapipe as mp
 import time
